@@ -4,7 +4,7 @@
 
 ## 🛒 Project Overview
 
-Azalidpor is designed to streamline the process of selling and buying furniture online. It includes a fully featured admin panel and a user-friendly shopping interface for customers.
+Azalidor is designed to streamline the process of selling and buying furniture online. It includes a fully featured admin panel and a user-friendly shopping interface for customers.
 
 ## 🧩 Core Features
 
